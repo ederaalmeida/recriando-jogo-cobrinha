@@ -1,1 +1,1 @@
-Recriar jogo cobrinha
+Recriando jogo cobrinha
